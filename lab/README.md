@@ -18,20 +18,15 @@
 ![Файлы решения](solution.png "Файлы решения")
 
 
-Проект разделен на части, так что каждая функция сортировки находится в отдельном файле с соответствующим именем, а файл [`utils.cpp`](../sort/utils.cpp) содержит функции swap и print. Заголовочный файл sort.h содержит объявления всех функций, чтобы их можно было использовать в главной функции main() в sort.cpp.
-
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-4.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
+Проект разделен на части, так что каждая функция сортировки находится в отдельном файле с соответствующим именем, а файл [`utils.cpp`](../sort/utils.cpp) содержит функции `swap` и `print`. Заголовочный файл [`sort.h`](../sort/sort.h) содержит объявления всех функций, чтобы их можно было использовать в главной функции main() в [`sort.cpp`](../sort/sort.cpp).
 
 ![Структура решения](sol_structure.png "Структура решения")
 
 
 О сортировке пузырьком и вставками можно посмотреть следующее [видео из курса CS50.](https://www.youtube.com/watch?v=D1u3H9_wmUU)
 
-Танцы с сортировкой:  \
-[https://www.youtube.com/user/AlgoRythmics/videos](https://www.youtube.com/user/AlgoRythmics/videos)
+Забавные иллюстрации к алгоритмам сортировки на канале\
+[AlgoRythmics](https://www.youtube.com/user/AlgoRythmics/videos)
 
 
 
