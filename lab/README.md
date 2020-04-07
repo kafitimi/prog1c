@@ -28,9 +28,7 @@
 ![alt_text](images/-4.png "image_tooltip")
 
 
-О сортировке пузырьком и вставками можно посмотреть следующее видео:
-
-[https://www.youtube.com/watch?v=Hr-SbhF6apc](https://www.youtube.com/watch?v=Hr-SbhF6apc)
+О сортировке пузырьком и вставками можно посмотреть следующее [видео из курса CS50.](https://www.youtube.com/watch?v=D1u3H9_wmUU)
 
 Танцы с сортировкой:  \
 [https://www.youtube.com/user/AlgoRythmics/videos](https://www.youtube.com/user/AlgoRythmics/videos)
