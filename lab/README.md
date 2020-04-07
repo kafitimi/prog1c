@@ -23,9 +23,7 @@
 ![Структура решения](sol_structure.png "Структура решения")
 
 
-О сортировке пузырьком и вставками можно посмотреть следующее [видео из курса CS50.](https://www.youtube.com/watch?v=D1u3H9_wmUU)
-
-Забавные иллюстрации к алгоритмам сортировки на канале\
+О сортировке пузырьком и вставками можно посмотреть следующее [видео из курса CS50](https://www.youtube.com/watch?v=D1u3H9_wmUU). Забавные иллюстрации к алгоритмам сортировки (и не только) можно посмотреть на канале
 [AlgoRythmics](https://www.youtube.com/user/AlgoRythmics/videos)
 
 
@@ -33,7 +31,7 @@
 <p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-5.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/-5.png "image_tooltip")
+![Сортировка выбором](selection_sort.png "Сортировка выбором")
 
 
 Функция `selection_sort`выбирает минимальный элемент среди неупорядоченных (на рисунке белые) и присоединяет его в конец упорядоченной части (на рисунке зеленые). Поэтому за первый проход алгоритма минимум массива ставится на первое место, за второй проход - второй по величине элемент ставится на второе место и т.д. Упорядоченная часть растет, не­упо­ря­до­ченная уменьшается по одному элементу за проход. Всего требуется N-1 проходов.
